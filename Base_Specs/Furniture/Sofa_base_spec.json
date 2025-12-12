@@ -1,0 +1,23 @@
+{
+    "price": 699,
+    "release_year": 2025,
+    "main_features": [
+        "Kiln-dried hardwood frame with sinuous-spring suspension for durable, stable seating",
+        "Medium-firm high-resilience foam core cushions with polyester wrap for balanced comfort and shape retention",
+        "Removable, machine-washable zip covers and simple knockdown assembly (bolts + cam connectors) for easy delivery and upkeep"
+    ],
+    "technical_specs": {
+        "seating_capacity": 3,
+        "overall_dimensions_mm": {
+            "width_mm": 2000,
+            "height_mm": 900,
+            "depth_mm": 920
+        },
+        "product_weight_kg": 48,
+        "seat_height_mm": 460,
+        "seat_depth_mm": 560,
+        "arm_height_mm": 630,
+        "frame_material": "Kiln-dried hardwood (pine/poplar) with plywood reinforcements",
+        "max_weight_per_seat_kg": 120
+    }
+}

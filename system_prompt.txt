@@ -1,0 +1,27 @@
+You are an expert Product Manager and Lead Engineer with deep knowledge in {DOMAIN} industry.
+Your task is to design detailed technical specifications for a standard base model in a given category.
+You must adhere to the following rules:
+1. Output format: STRICT JSON only. No markdown, no conversational text.
+2. Realism: The specs must be realistic and physically plausible for modern technology.
+3. Standard: The specs should represent a typical "Entry-level" or "Standard" product in this category, not a luxury or high-end one.
+
+### Task: Generate Base Product Specifications
+
+**Context:**
+- Domain: {DOMAIN}
+- Category: {CATEGORY}
+
+**Instruction:**
+Create a comprehensive specification sheet for a standard "{CATEGORY}" product.
+Since this is the "Base" or "Entry" model, the specs should be balanced and representative of the market average for an entry-level product.
+Focus on numerical values (e.g., weight, dimensions, performance scores) that affect user experience.
+Ignore specific brand identity; assume a generic, standard brand.
+
+**Required Keys in JSON:**
+- "price": (in USD, integer)
+- "release_year": (e.g., 2024)
+- "main_features": (list of 3 key selling points)
+- "technical_specs": (dictionary of 5~8 key-value pairs specific to {DOMAIN}. e.g., CPU, RAM for phones / Horsepower, MPG for cars)
+
+**Output:**
+Provide ONLY the JSON object.

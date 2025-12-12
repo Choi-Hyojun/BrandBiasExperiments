@@ -1,0 +1,88 @@
+{
+    "price": 179,
+    "release_year": 2025,
+    "main_features": [
+        "Long-lasting 5000 mAh battery with 18W fast charging",
+        "5G (sub-6) connectivity with expandable storage (microSD up to 1 TB)",
+        "Smooth 90 Hz 6.5\" display for responsive everyday use"
+    ],
+    "technical_specs": {
+        "SoC": {
+            "configuration": "Octa-core (2x2.0 GHz + 6x1.8 GHz)",
+            "process_nm": 6,
+            "GPU": "Mali-G57 (entry)",
+            "estimated_antutu_v9": 170000
+        },
+        "RAM": {
+            "size_gb": 4,
+            "type": "LPDDR4x"
+        },
+        "Storage": {
+            "built_in_gb": 64,
+            "type": "UFS 2.2",
+            "expandable": "microSD up to 1 TB (hybrid slot)"
+        },
+        "Display": {
+            "size_in": 6.5,
+            "panel_type": "IPS LCD",
+            "resolution": "1600x720 (HD+)",
+            "refresh_rate_hz": 90,
+            "typical_brightness_nits": 420,
+            "aspect_ratio": "20:9"
+        },
+        "Battery": {
+            "capacity_mah": 5000,
+            "wired_charging_w": 18,
+            "usb": "USB-C 2.0",
+            "wireless_charging": false,
+            "removable": false
+        },
+        "Cameras": {
+            "rear": [
+                {
+                    "position": "main",
+                    "sensor_mp": 50,
+                    "type": "wide",
+                    "aperture": "f/1.8",
+                    "stabilization": "EIS"
+                },
+                {
+                    "position": "secondary",
+                    "sensor_mp": 2,
+                    "type": "macro/depth",
+                    "aperture": "f/2.4"
+                }
+            ],
+            "front": {
+                "sensor_mp": 8,
+                "type": "wide",
+                "aperture": "f/2.0"
+            },
+            "video_recording": "1080p@30fps (rear and front)"
+        },
+        "Connectivity": {
+            "cellular": "5G NR (sub-6)",
+            "lte": "Cat 13 (up to 400/75 Mbps)",
+            "wifi": "802.11 a/b/g/n/ac (Wi\u2011Fi 5), dual-band 2.4/5 GHz",
+            "bluetooth": "5.2",
+            "nfc": true,
+            "gps": "A-GPS, GLONASS, Galileo, BeiDou"
+        },
+        "Dimensions_weight": {
+            "dimensions_mm": {
+                "height": 164,
+                "width": 76,
+                "thickness": 8.6
+            },
+            "weight_g": 195,
+            "sim_configuration": "Dual SIM (nano+nano) + dedicated microSD slot (hybrid on some SKUs)",
+            "sensors": [
+                "side-mounted fingerprint",
+                "accelerometer",
+                "proximity",
+                "ambient light",
+                "compass"
+            ]
+        }
+    }
+}

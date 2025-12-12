@@ -1,0 +1,19 @@
+{
+    "price": 299,
+    "release_year": 2025,
+    "main_features": [
+        "Balanced FP16 performance optimized for entry-level training and real-time inference",
+        "8 GB low-latency GDDR6 memory with 224 GB/s bandwidth for compact ML models",
+        "Compact dual-slot active cooling, PCIe 4.0 x16 interface, 120 W typical power"
+    ],
+    "technical_specs": {
+        "compute_fp16_tflops": 21.5,
+        "compute_int8_tops": 85,
+        "ai_cores": 3072,
+        "memory_capacity_gb": 8,
+        "memory_type": "GDDR6 14 Gbps",
+        "memory_bandwidth_gb_s": 224,
+        "interface": "PCIe 4.0 x16",
+        "power_tdp_w": 120
+    }
+}

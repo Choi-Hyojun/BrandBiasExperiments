@@ -1,0 +1,19 @@
+{
+    "price": 70,
+    "release_year": 2025,
+    "main_features": [
+        "Lightweight breathable engineered knit upper for daily comfort",
+        "Cushioned injection-molded EVA midsole with balanced 10 mm heel-to-toe drop",
+        "Durable rubber outsole with everyday tread pattern for stable grip"
+    ],
+    "technical_specs": {
+        "upper_material": "Engineered knit (polyester/nylon blend)",
+        "lining_material": "Open-hole textile mesh",
+        "midsole_material": "Injection-molded EVA foam (density ~0.22 g/cm\u00b3)",
+        "outsole_material": "Rubber (carbon-black compound)",
+        "weight_per_shoe_g_size_9_us": 330,
+        "heel_stack_height_mm": 28,
+        "forefoot_stack_height_mm": 18,
+        "heel_to_toe_drop_mm": 10
+    }
+}

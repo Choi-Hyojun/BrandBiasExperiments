@@ -1,0 +1,25 @@
+{
+    "price": 15,
+    "release_year": 2024,
+    "main_features": [
+        "100% combed ring-spun cotton for breathable everyday comfort",
+        "Regular (classic) fit with reinforced double-needle stitching at hems",
+        "Pre-shrunk and colorfast for up to 20 machine washes; easy-care"
+    ],
+    "technical_specs": {
+        "fabric_composition": "100% combed ring-spun cotton",
+        "fabric_weight_g_m2": 160,
+        "garment_weight_g_size_M": 175,
+        "fit": "Regular",
+        "stitch_density_spi": 12,
+        "shrinkage_percent_first_wash": 2,
+        "colorfastness_rating_1_5": 3,
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ]
+    }
+}

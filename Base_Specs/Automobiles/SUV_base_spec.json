@@ -1,0 +1,26 @@
+{
+    "price": 28500,
+    "release_year": 2025,
+    "main_features": [
+        "Efficient 1.5L turbocharged powertrain balancing fuel economy and everyday performance",
+        "Practical 5-seat interior with flexible cargo space and easy-fold rear seats",
+        "Standard active safety suite (automatic emergency braking, lane-keep assist, rearview camera) and modern connectivity"
+    ],
+    "technical_specs": {
+        "engine": "1.5L turbocharged inline-4, direct injection",
+        "horsepower": 170,
+        "torque_lb_ft": 184,
+        "transmission": "8-speed automatic with manual-shift mode",
+        "drivetrain": "Front-wheel drive (All-wheel drive available)",
+        "fuel_economy_mpg": {
+            "city": 28,
+            "highway": 34,
+            "combined": 30
+        },
+        "curb_weight_lb": 3500,
+        "cargo_volume_cuft": {
+            "seats_up": 30,
+            "seats_folded": 65
+        }
+    }
+}

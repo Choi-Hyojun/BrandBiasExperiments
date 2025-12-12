@@ -1,0 +1,68 @@
+{
+    "price": 129,
+    "release_year": 2024,
+    "main_features": [
+        "7-day typical battery life with 320 mAh low-power design",
+        "All-day health tracking (optical HR + SpO2) plus built-in GNSS for outdoor activity tracking",
+        "Lightweight 1.3\" 360\u00d7360 high-density display with IP68 / 5 ATM water resistance"
+    ],
+    "technical_specs": {
+        "display": {
+            "type": "TFT LCD (energy-optimized)",
+            "size_in": 1.3,
+            "resolution": "360x360",
+            "ppi": 277,
+            "brightness_nits": 450,
+            "glass": "2.5D chemically strengthened glass"
+        },
+        "dimensions_weight": {
+            "dimensions_mm": "42.5 x 42.5 x 10.8",
+            "weight_g": 38,
+            "strap": "22 mm silicone (removable)"
+        },
+        "battery_and_charging": {
+            "capacity_mAh": 320,
+            "typical_use_days": 7,
+            "max_power_saver_days": 14,
+            "standby_days": 15,
+            "charging_type": "magnetic pogo-pin charger",
+            "full_charge_time_minutes": 90,
+            "fast_charge": "0-50% in 30 minutes"
+        },
+        "processor": {
+            "soc": "Low-power dual-core wearable SoC",
+            "cpu": "2x cores up to 1.2 GHz (ARM Cortex-A53 class performance profile)",
+            "gpu": "Integrated low-power GPU (for UI smoothing)"
+        },
+        "memory_storage": {
+            "ram_mb": 512,
+            "storage_gb": 4,
+            "user_available_gb": 2.5,
+            "expandable_storage": false
+        },
+        "sensors": [
+            "PPG optical heart rate sensor (continuous HR)",
+            "SpO2 (blood oxygen) sensor",
+            "3-axis accelerometer",
+            "3-axis gyroscope",
+            "ambient light sensor",
+            "magnetometer (compass)"
+        ],
+        "connectivity": {
+            "bluetooth": "5.2 (BLE + BR/EDR)",
+            "wifi": "802.11 b/g/n (2.4 GHz) - OTA updates",
+            "gnss": "Built-in GPS + GLONASS (A-GNSS assisted)",
+            "nfc": false,
+            "cellular": "No (Bluetooth-tethered only)",
+            "microphone": true,
+            "speaker": false,
+            "smartphone_compatibility": "Android 8.0+ and iOS 13+ (companion app)"
+        },
+        "durability_and_environmental": {
+            "water_resistance": "5 ATM (50 m)",
+            "ingress_protection": "IP68",
+            "operating_temperature_c": "-10 to 45",
+            "drop_rating": "Designed for everyday shock; not MIL-STD certified"
+        }
+    }
+}

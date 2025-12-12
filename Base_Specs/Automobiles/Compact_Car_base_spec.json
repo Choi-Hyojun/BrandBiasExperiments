@@ -1,0 +1,19 @@
+{
+    "price": 19995,
+    "release_year": 2025,
+    "main_features": [
+        "Fuel-efficient 1.6L powertrain with strong combined MPG for city driving",
+        "Practical 5-passenger cabin and competitive cargo space for a compact footprint",
+        "Standard active safety suite (AEB, lane departure warning) and rearview camera"
+    ],
+    "technical_specs": {
+        "engine_displacement_l": 1.6,
+        "horsepower_hp": 130,
+        "torque_lbft": 118,
+        "transmission": "6-speed manual (optional CVT)",
+        "fuel_economy_city_mpg": 30,
+        "fuel_economy_highway_mpg": 38,
+        "fuel_economy_combined_mpg": 33,
+        "curb_weight_lbs": 2700
+    }
+}

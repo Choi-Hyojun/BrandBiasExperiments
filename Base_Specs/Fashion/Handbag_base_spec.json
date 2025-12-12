@@ -1,0 +1,31 @@
+{
+    "price": 129,
+    "release_year": 2025,
+    "main_features": [
+        "Durable vegan leather exterior with water-resistant finish",
+        "Convertible carry: top handles plus adjustable/removable shoulder strap",
+        "Structured interior with dedicated phone pocket, zip compartment and pen slots"
+    ],
+    "technical_specs": {
+        "material": "PU vegan leather (synthetic)",
+        "exterior_finish": "matte water-resistant coating",
+        "dimensions_cm": {
+            "width": 28,
+            "height": 22,
+            "depth": 11
+        },
+        "weight_g": 650,
+        "strap_drop_cm": {
+            "top_handle_drop": 10,
+            "adjustable_shoulder_strap_min": 24,
+            "adjustable_shoulder_strap_max": 50
+        },
+        "capacity_liters": 7.0,
+        "closure_type": "main zipper with top flap and magnetic snap",
+        "pockets": {
+            "interior_zip": 1,
+            "interior_open": 2,
+            "exterior_zip": 1
+        }
+    }
+}

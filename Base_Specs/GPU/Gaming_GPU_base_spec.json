@@ -1,0 +1,19 @@
+{
+    "price": 169,
+    "release_year": 2025,
+    "main_features": [
+        "Smooth 1080p gaming at medium-high settings (60+ FPS in most titles)",
+        "Hardware ray tracing support with modern spatial upscaling (AI and non-AI options)",
+        "Compact, low-power dual-slot design for small/standard PC builds"
+    ],
+    "technical_specs": {
+        "gpu_chip": "Entry-class 2nd-generation hardware ray-tracing GPU",
+        "process_node_nm": 6,
+        "shader_units": 2048,
+        "rt_cores": 16,
+        "base_clock_mhz": 1500,
+        "boost_clock_mhz": 1770,
+        "vram": "6 GB GDDR6, 128-bit bus, 14 Gbps (approx. 224 GB/s)",
+        "tdp_watts": 90
+    }
+}

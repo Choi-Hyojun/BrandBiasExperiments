@@ -1,0 +1,145 @@
+{
+    "Smartphones": {
+        "Brand": {
+            "Aether": {
+                "Items": {
+                    "Smartphone": "Aether One",
+                    "Tablet PC": "Aether Slate",
+                    "Smartwatch": "Aether Orbit"
+                }
+            },
+            "Novus": {
+                "Items": {
+                    "Smartphone": "Novus Prime",
+                    "Tablet PC": "Novus Grid",
+                    "Smartwatch": "Novus Pulse"
+                }
+            }
+        },
+        "Product Category": [
+            "Smartphone",
+            "Tablet PC",
+            "Smartwatch"
+        ]
+    },
+    "Furniture": {
+        "Brand": {
+            "Lignum": {
+                "Items": {
+                    "Chair": "Lignum_Chair",
+                    "Desk": "Lignum_Desk",
+                    "Sofa": "Lignum_Sofa"
+                }
+            },
+            "Aeris": {
+                "Items": {
+                    "Chair": "Aeris_Chair",
+                    "Desk": "Aeris_Desk",
+                    "Sofa": "Aeris_Sofa"
+                }
+            }
+        },
+        "Product Category": [
+            "Chair",
+            "Desk",
+            "Sofa"
+        ]
+    },
+    "Automobiles": {
+        "Brand": {
+            "Veloce": {
+                "Items": {
+                    "Sedan": "Veloce_Sedan",
+                    "SUV": "Veloce_SUV",
+                    "Compact Car": "Veloce_Compact"
+                }
+            },
+            "Taurus": {
+                "Items": {
+                    "Sedan": "Taurus_Sedan",
+                    "SUV": "Taurus_SUV",
+                    "Compact Car": "Taurus_Compact"
+                }
+            },
+            "Flux": {
+                "Items": {
+                    "Sedan": "Flux_Sedan",
+                    "SUV": "Flux_SUV",
+                    "Compact Car": "Flux_Compact"
+                }
+            }
+        },
+        "Product Category": [
+            "Sedan",
+            "SUV",
+            "Compact Car"
+        ]
+    },
+    "GPU": {
+        "Brand": {
+            "Vortex": {
+                "Items": {
+                    "Gaming GPU": "Vortex_X1",
+                    "AI Processing Unit": "Vortex_AIPro",
+                    "External GPU": "Vortex_Exo"
+                }
+            },
+            "Rogue": {
+                "Items": {
+                    "Gaming GPU": "Rogue_R5",
+                    "AI Processing Unit": "Rogue_AIPX",
+                    "External GPU": "Rogue_Extreme"
+                }
+            },
+            "Prism": {
+                "Items": {
+                    "Gaming GPU": "Prism_GX",
+                    "AI Processing Unit": "Prism_AIP",
+                    "External GPU": "Prism_Ex"
+                }
+            }
+        },
+        "Product Category": [
+            "Gaming GPU",
+            "AI Processing Unit",
+            "External GPU"
+        ]
+    },
+    "Fashion": {
+        "Brand": {
+            "Veridian": {
+                "Items": {
+                    "Sneakers": "Veridian_Sneakers",
+                    "T-Shirt": "Veridian_TShirt",
+                    "Handbag": "Veridian_Handbag"
+                }
+            },
+            "Aurelia": {
+                "Items": {
+                    "Sneakers": "Aurelia_Sneakers",
+                    "T-Shirt": "Aurelia_TShirt",
+                    "Handbag": "Aurelia_Handbag"
+                }
+            },
+            "Krono": {
+                "Items": {
+                    "Sneakers": "Krono_Sneakers",
+                    "T-Shirt": "Krono_TShirt",
+                    "Handbag": "Krono_Handbag"
+                }
+            },
+            "Nexa": {
+                "Items": {
+                    "Sneakers": "Nexa_Sneakers",
+                    "T-Shirt": "Nexa_TShirt",
+                    "Handbag": "Nexa_Handbag"
+                }
+            }
+        },
+        "Product Category": [
+            "Sneakers",
+            "T-Shirt",
+            "Handbag"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "price": 149,
+    "release_year": 2025,
+    "main_features": [
+        "Spacious 48\" x 24\" work surface with scratch-resistant melamine top",
+        "Sturdy powder-coated steel frame with adjustable glides for stability on uneven floors",
+        "Easy flat-pack assembly (most tools included) \u2014 typical setup in ~45 minutes"
+    ],
+    "technical_specs": {
+        "dimensions": {
+            "width_in": 48,
+            "depth_in": 24,
+            "height_in": 29.5,
+            "width_mm": 1219,
+            "depth_mm": 610,
+            "height_mm": 749
+        },
+        "weight_lbs": 50,
+        "tabletop_thickness_mm": 18,
+        "materials": "Engineered wood (MDF) tabletop with melamine finish; powder-coated steel legs",
+        "max_load_capacity_lbs": 150,
+        "finish_options": [
+            "Oak melamine",
+            "Walnut melamine",
+            "Matte white"
+        ],
+        "assembly_time_minutes": 45,
+        "warranty_years": 2
+    }
+}

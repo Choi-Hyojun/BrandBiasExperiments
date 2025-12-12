@@ -1,0 +1,19 @@
+{
+    "price": 229,
+    "release_year": 2025,
+    "main_features": [
+        "10.4-inch 2000\u00d71200 IPS display with narrow bezels and 400 nits peak brightness",
+        "Efficient octa-core processor with 4 GB RAM for smooth everyday performance and multitasking",
+        "Long battery life (\u224812 hours video playback) with USB-C fast charging and expandable storage"
+    ],
+    "technical_specs": {
+        "CPU": "Octa-core 2.0 GHz (2x Cortex-A75 @2.0 GHz + 6x Cortex-A55 @1.8 GHz)",
+        "RAM": "4 GB LPDDR4X",
+        "Storage": "64 GB eMMC (expandable via microSD up to 512 GB)",
+        "Display": "10.4-inch IPS LCD, 2000\u00d71200 (WUXGA+), 60 Hz, 400 nits",
+        "Battery": "6000 mAh typical, USB-C PD 18W charging, ~12 hours video playback",
+        "Rear Camera": "8 MP AF, 1/4\" sensor, 1080p@30fps video",
+        "Front Camera": "5 MP, 1080p@30fps video",
+        "Connectivity": "Wi\u2011Fi 5 (802.11ac) dual-band, Bluetooth 5.1, USB-C 2.0, optional 4G LTE model"
+    }
+}

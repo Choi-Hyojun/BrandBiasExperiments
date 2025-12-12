@@ -1,0 +1,19 @@
+{
+    "price": 24500,
+    "release_year": 2025,
+    "main_features": [
+        "Fuel-efficient 1.6L I4 with combined ~33 MPG and low operating costs",
+        "Comprehensive standard safety suite (AEB, lane assist, blind-spot monitor)",
+        "Spacious 5-seat cabin with practical cargo capacity and user-friendly tech"
+    ],
+    "technical_specs": {
+        "engine": "1.6L inline-4 naturally aspirated",
+        "horsepower": 140,
+        "torque_lb_ft": 128,
+        "transmission": "6-speed automatic",
+        "drivetrain": "FWD",
+        "fuel_economy_city_mpg": 30,
+        "fuel_economy_highway_mpg": 38,
+        "curb_weight_lbs": 2950
+    }
+}
